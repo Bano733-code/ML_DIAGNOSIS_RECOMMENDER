@@ -17,8 +17,11 @@ multilingual explanations.
 🚀 How to Use
 
 Select or enter symptoms.
+
 Click Predict Disease to get top-3 results with confidence.
+
 Click Explain Diseases for AI-powered short explanations.
+
 Listen to audio from the sidebar.
 
 🛠️ Tech Stack
