@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+joblib
+numpy
+gTTS
+deep-translator
+requests
+langdetect
+groq
+pyttsx3
