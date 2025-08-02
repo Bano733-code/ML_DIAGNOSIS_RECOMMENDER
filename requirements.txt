@@ -8,4 +8,4 @@ deep-translator
 requests
 langdetect
 groq
-pyttsx3
+
