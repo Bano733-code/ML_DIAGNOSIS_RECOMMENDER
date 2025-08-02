@@ -7,8 +7,11 @@ multilingual explanations.
 🌟 Features
 
 🧪 Symptom-to-disease ML prediction (Random Forest + TF-IDF)
+
 🌐 Multilingual input and output (Urdu, Punjabi, Spanish, etc.)
+
 🤖 AI-powered disease explanation using Groq LLM
+
 🎧 Text-to-speech output for accessibility
 
 🚀 How to Use
