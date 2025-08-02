@@ -1,4 +1,5 @@
 🧠 Symptom2Disease: AI Diagnosis Assistant
+
 An AI-powered Streamlit app that predicts top 3 likely 
 diseases based on user-input symptoms and provides 
 multilingual explanations.
